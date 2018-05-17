@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://kind-darwin-7ec483.netlify.com/* http://v3.sowmyakalyan.com/:splat 301!
