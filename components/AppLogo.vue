@@ -1,10 +1,5 @@
 <template>
-  <div class="VueToNuxtLogo">
-    <div class="Triangle Triangle--two"/>
-    <div class="Triangle Triangle--one"/>
-    <div class="Triangle Triangle--three"/>
-    <div class="Triangle Triangle--four"/>
-  </div>
+  <img src="http://cakephp-mysql-persistent-mycake.1d35.starter-us-east-1.openshiftapps.com/Images/halfAvatar.png" />
 </template>
 
 <style>
