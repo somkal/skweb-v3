@@ -8,11 +8,8 @@
       <h2 class="subtitle">
         Welcome to our world.
       </h2>
-<<<<<<< HEAD
-=======
       <div class="links">
       </div>
->>>>>>> 667cc3aada7ae7e59b48ece4f6f8839f51dc3555
     </div>
   </section>
 </template>
