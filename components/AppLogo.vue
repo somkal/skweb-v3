@@ -1,5 +1,5 @@
 <template>
-  <img src="http://cakephp-mysql-persistent-mycake.1d35.starter-us-east-1.openshiftapps.com/Images/halfAvatar.png" />
+  <img src="//cakephp-mysql-persistent-mycake.1d35.starter-us-east-1.openshiftapps.com/Images/halfAvatar.png"/>
 </template>
 
 <style>
